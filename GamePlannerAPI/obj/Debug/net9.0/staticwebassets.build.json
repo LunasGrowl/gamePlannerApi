@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "I1cKzXKc9NOD5zf9/lFp8cOxSckhdZZwnq9sHU1Pza4=",
+  "Source": "GamePlannerAPI",
+  "BasePath": "_content/GamePlannerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
